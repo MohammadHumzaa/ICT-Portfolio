@@ -1,2 +1,5 @@
-# ICT-Portfolio
-This repository contains assignments and related work for courses at Mohammad Ali Jinnah University (MAJU).
+# My ICT Portfolio
+Name: Muhammad Hamza
+Program: BSSE
+Semester: 1
+This repository is created for my ICT assignment.
